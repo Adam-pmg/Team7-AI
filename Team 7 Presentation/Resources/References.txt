@@ -1,0 +1,9 @@
+https://www.ibm.com/impact/ai-ethics
+https://aws.amazon.com/machine-learning/responsible-ai/
+https://ai.meta.com/responsible-ai/
+https://www.newscientist.com/article/2166207-discriminating-algorithms-5-times-ai-showed-prejudice/
+https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/exploiting-ai-how-cybercriminals-misuse-abuse-ai-and-ml
+https://www.isaca.org/resources/news-and-trends/newsletters/atisaca/2021/volume-32/challenges-of-ai-and-data-privacy-and-how-to-solve-them
+https://www.wgu.edu/blog/how-ai-affecting-information-privacy-data2109.html
+https://hbr.org/2020/08/how-to-fight-discrimination-in-ai
+https://www.cnn.com/2023/09/05/opinions/artificial-intelligence-jobs-labor-market/index.html
